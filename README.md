@@ -1,2 +1,6 @@
-# 気持ち悪い…
-<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/face-vomiting_1f92e.gif">
+## 名前
+楊謙鈺 (やん　ちぇんゆ)
+## プロフィール写真
+<img src="https://marunuki.tools-base.biz/img/IMG_2130_0426084326.png" width="200">
+## 生年月日
+2013-08-15
