@@ -9,4 +9,4 @@
 - JS(同じくAIに)
 ## 連絡先
 **Email**: [qianyuyang.vip@gmail.com](mailto:qianyuyang.vip@gmail.com)
-**GitHub**: [@qianyu-08](../qianyu-08)
+**GitHub**: [@qianyu-08](../../../../)
