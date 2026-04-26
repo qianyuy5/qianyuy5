@@ -8,5 +8,7 @@
 - CSS(上記の通りこれもAIに)
 - JS(同じくAIに)
 ## 連絡先
-**Email**: [qianyuyang.vip@gmail.com](mailto:qianyuyang.vip@gmail.com)
-**GitHub**: [@qianyu-08](../../../../qianyu-08)
+![Emailアイコン](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/3840px-Gmail_icon_%282020%29.svg.png)
+**Email**: [qianyuyang.vip@gmail.com](mailto:qianyuyang.vip@gmail.com)  
+![GitHubアイコン](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)
+**GitHub**: [@qianyu-08](../../../../qianyu-08)  
