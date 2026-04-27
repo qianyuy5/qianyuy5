@@ -1,44 +1,56 @@
-# Qianyu Yang
+# Qianyu
 
-中一エンジニア
-
----
-
-## 👾 About
-- Webサイトを作ったりUIをいじったりして生きてる
-- CSSアニメーションで遊ぶのが好き
-- かわいい世界観のUIに弱い（たぶんバグ）
+> // SYSTEM: JUNIOR DEV NODE ACTIVE  
+> // STATUS: UI_OBSESSION / CSS_ANIMATION_HACKER
 
 ---
 
-## 🧠 Skills
-- HTML
-- CSS
-- JavaScript（少しずつ増殖中）
-- Git / GitHub（コンフリクト経験は少なめ）
+## 👾 ABOUT
+- Web空間にUIを生成して遊んでいる
+- CSSアニメーションを“動く錯視”として研究中
+- かわいいデザインに感染しやすいバグ個体
 
 ---
 
-## 🎨 Interests
-- おもちゃみたいなUI
-- ぬるぬる動くアニメーション
-- シンプルで気持ちいいデザイン
+## 🧠 SKILL MATRIX
+- HTML // structure layer
+- CSS // visual hacking module
+- JavaScript // behavior injection (WIP)
+- Git / GitHub // version timeline manipulation system
+  - conflict rate: LOW
+  - main branch direct overwrite protocol: ENABLED
 
 ---
 
-## 🧪 Current Mood
-- 「これ動くのなんで？」って言いながらコード触ってる
+## 🎨 INTEREST PROTOCOLS
+- neon glow UI systems
+- liquid motion / smooth interpolation
+- minimal interfaces with maximum emotion
+- “おもちゃっぽさ”の工学的再現
 
 ---
 
-## 📦 Projects
-- まだ整理されてないリポジトリ群
-- 気分で増える小さい実験場
+## 🧪 CURRENT STATE
+> "why is this working?"
+→ observed while modifying reality (a.k.a code)
 
 ---
 
-## 🪲 Note
-- バグは敵じゃない。未発見の仕様。
-- 開発は基本GitHubのGUI操作で行われる（ボタンは強い）
-- mainブランチに直接投げがちスタイル
-- コードは参考＋AI補助で育つタイプ
+## 📦 PROJECT ARCHIVE
+- experimental UI fragments
+- unfinished interface prototypes
+- spontaneous idea dumps
+- occasionally functional artifacts
+
+---
+
+## 🪲 SYSTEM NOTES
+- bugs are not errors, they are undocumented features
+- Git is used through visual interface abstraction layer (GUI dominance)
+- development often bypasses CLI due to efficiency constraints
+- AI-assisted code generation: active subsystem
+
+---
+
+## ⚠️ WARNING
+this profile may contain unstable design experiments
