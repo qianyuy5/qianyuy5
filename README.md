@@ -1,56 +1,86 @@
-# Qianyu
 
-> // SYSTEM: JUNIOR DEV NODE ACTIVE  
-> // STATUS: UI_OBSESSION / CSS_ANIMATION_HACKER
+<div align="center">
 
----
+<!-- NEON TITLE -->
+<h1 style="font-size:42px;
+color:#00f0ff;
+text-shadow:0 0 10px #00f0ff, 0 0 20px #ff00ff, 0 0 40px #00f0ff;">
+Qianyu
+</h1>
 
-## 👾 ABOUT
-- Web空間にUIを生成して遊んでいる
-- CSSアニメーションを“動く錯視”として研究中
-- かわいいデザインに感染しやすいバグ個体
+<!-- SUBTITLE -->
+<p style="color:#ff4dff; font-size:14px;">
+// JUNIOR DEV NODE ONLINE // UI HACKER // CSS ANIMATION UNIT
+</p>
 
----
+<!-- GLITCH LINE -->
+<pre style="color:#00ff9d;">
+▰▰▰ SYSTEM BOOT: VISUAL INTERFACE ACTIVE ▰▰▰
+</pre>
 
-## 🧠 SKILL MATRIX
-- HTML // structure layer
-- CSS // visual hacking module
-- JavaScript // behavior injection (WIP)
-- Git / GitHub // version timeline manipulation system
-  - conflict rate: LOW
-  - main branch direct overwrite protocol: ENABLED
-
----
-
-## 🎨 INTEREST PROTOCOLS
-- neon glow UI systems
-- liquid motion / smooth interpolation
-- minimal interfaces with maximum emotion
-- “おもちゃっぽさ”の工学的再現
+</div>
 
 ---
 
-## 🧪 CURRENT STATE
-> "why is this working?"
-→ observed while modifying reality (a.k.a code)
+## 🌐 PROFILE SIGNAL
+```txt
+USER: Qianyu
+ROLE: Web Interface Engineer (junior)
+MODE: neon-cyber aesthetic / experimental UI
+STATUS: learning reality manipulation via CSS
+````
 
 ---
 
-## 📦 PROJECT ARCHIVE
-- experimental UI fragments
-- unfinished interface prototypes
-- spontaneous idea dumps
-- occasionally functional artifacts
+## ⚡ SKILL MATRIX
+
+* HTML :: structural layer ✔
+* CSS :: glow / motion / illusion engine ✔
+* JavaScript :: behavior injection (WIP)
+* GitHub :: timeline editing via buttons (legal cheat code)
 
 ---
 
-## 🪲 SYSTEM NOTES
-- bugs are not errors, they are undocumented features
-- Git is used through visual interface abstraction layer (GUI dominance)
-- development often bypasses CLI due to efficiency constraints
-- AI-assisted code generation: active subsystem
+## 🎨 VISUAL INTERESTS
+
+* neon glow interfaces
+* cyberpunk UI grids
+* soft + cute + futuristic hybrid design
+* “かわいい × 未来都市”の融合事故
+
+---
+
+## 🧪 ACTIVE PROCESS
+
+<div style="color:#00f0ff;">
+→ compiling ideas...  
+→ animating pixels...  
+→ questioning why it works...
+</div>
+
+---
+
+## 📦 PROJECTS
+
+* experimental UI fragments
+* unfinished cyber interfaces
+* HTML/CSS playground dimension
+* occasionally usable prototypes
+
+---
+
+## 🪲 SYSTEM LOG
+
+```txt
+BUGS: treated as undocumented features
+GIT: mostly GUI-driven timeline manipulation
+AI ASSIST: enabled (co-pilot of questionable ethics)
+```
 
 ---
 
 ## ⚠️ WARNING
-this profile may contain unstable design experiments
+
+This profile emits high levels of neon aesthetic radiation.
+May cause excessive “これ作りたい”感情.
+
