@@ -33,16 +33,16 @@
 ---
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=qianyu-08&show_icons=true)
 
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qianyu-08&layout=compact)
 
 ---
 
 ## Contact
-- GitHub: https://github.com/YOUR_USERNAME
-- Email: your-email@example.com
+- GitHub: https://github.com/qianyu-08
+- Email: qianyuyang.vip@gmail.com
 
 ---
 
