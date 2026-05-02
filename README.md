@@ -1,1 +1,1 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hkfp_blue_flag_01.png" alt="Blue Warning">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Free_Hong_Kong_flag.svg/1280px-Free_Hong_Kong_flag.svg.png">
