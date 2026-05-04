@@ -1,1 +1,12 @@
-<img width="1054" height="1492" alt="image" src="https://github.com/user-attachments/assets/d4547ac7-45d8-4975-a4b1-dee14410b046" />
+
+
+**🏫 所属**：中学生(独学)  
+**🌏 拠点**：神奈川県横浜市  
+
+<h2>技術スキル</h2>
+<ul>
+  <li>りんご</li>
+  <li>バナナ</li>
+  <li>みかん</li>
+</ul>
+※ AIを活用しながら開発を行い、実装と動作確認を担当しています
