@@ -1,1 +1,1 @@
-<img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FChatGPT%2Fcomments%2F1hrwcb8%2Fauthentication_error%2F&ved=0CBYQjRxqFwoTCOjD567LrZQDFQAAAAAdAAAAABAG&opi=89978449">
+<img src="content.png">
