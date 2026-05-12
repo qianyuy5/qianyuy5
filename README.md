@@ -1,6 +1,5 @@
 # Qianyu Yang
 
-中学1年生。
 
 HTML / JavaScript / Python を使って  
 Web関連の実験をしています。
