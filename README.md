@@ -1,31 +1,18 @@
-# Qianyu Yang
+# Hi 👋
 
+気になったもの作ってます。
 
-HTML / JavaScript / Python を使って  
-Web関連の実験をしています。
-
-## Reality
-コードは基本AIに書いてもらっています。
-
-HTMLやJavaScriptはわりと触れるけど、  
-CSSは難しいです。
-
-動かなかった時は、
-まずAIに怒ります。
-
-## Skills
-- HTML
-- CSS
-- JavaScript
+## Stack
+- TypeScript
 - Python
-- Bash
+- Docker
+- Linux
+- その他いろいろ
+- AIが出せる言語全部
 
-## Current Status
-- AIにコードを書かせる
-- エラーで止まる
-- 修正してもらう
-- なぜか動く
-- たまに理解する
-
-## Projects
-実験コードや学習用プロジェクトを置いています。
+## Status
+- AI生成コードを読まずに実行
+- 壊れたらAIを責める
+- たまに本当に動く
+- Stack Overflowより先にAIへ聞く
+- 「理解した」より「動いた」を優先
