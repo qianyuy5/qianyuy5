@@ -17,5 +17,5 @@
 - Stack Overflowより先にAIへ聞く
 - 「理解した」より「動いた」を優先
 
-> ⚠️ **Warning**  
-> This repository is not accepting external requests or freelance work.
+> [!WARNING]
+> 外部からの制作依頼はお受けしていません
