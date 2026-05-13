@@ -17,6 +17,5 @@
 - Stack Overflowより先にAIへ聞く
 - 「理解した」より「動いた」を優先
 
-> ⚠️ **Note**
-> This profile is for personal projects only.
-> External work requests are not being accepted at this time.
+> ⚠️ **Warning**
+> This repository is not accepting external requests or freelance work.
