@@ -1,21 +1,16 @@
 # Hi 👋
 
-気になったもの作ってます。
+I build random things that looked interesting for 5 minutes.
 
 ## Stack
-- TypeScript
-- Python
-- Docker
-- Linux
-- その他いろいろ
-- AIが出せる言語全部
+- Whatever AI outputs
 
 ## Status
-- AI生成コードを読まずに実行
-- 壊れたらAIを責める
-- たまに本当に動く
-- Stack Overflowより先にAIへ聞く
-- 「理解した」より「動いた」を優先
+- Run AI-generated code without reading
+- Blame AI when it breaks
+- Occasionally works
+- Ask AI before Stack Overflow
+- Prioritize "worked" over "understood"
 
-> [!WARNING]
-> 外部からの制作依頼はお受けしていません
+## Current Goal
+Trying to survive dependency hell.
