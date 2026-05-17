@@ -1,7 +1,58 @@
-# My GitHub Login
-**Username**: qianyu-08  
-**Password**: qianyuyang.vip@gmail.com
-# ChatGPT session
-```
-{"url":"https://chatgpt.com/backend-api/f/conversation/prepare","method":"GET","status":200,"response":"{\"status\":\"ok\",\"conduit_token\":\"eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb25kdWl0X3V1aWQiOiJjM2YxYWFkOGEwMzk0YmRlYWUwYjhkYzk2NmQxODdjOCIsImNvbmR1aXRfbG9jYXRpb24iOiIxMC4xMjguMTg4LjQ1OjgzMDQiLCJjbHVzdGVyIjoidW5pZmllZC0xNTkiLCJpYXQiOjE3Nzg5NzU2NzksImV4cCI6MTc3ODk3NTczOSwidHVybl90b3BpY19pZCI6bnVsbH0.YbJ4Go4evTNHmMs2EF7WGUxPBWKG8kuE0kCb2YTDJTZGuxVSLUVQTrpZVogM6eLCM1cgkDl0xdVOrNMDeXkmWw\"}"}
-```
+# 👨‍💻 やん ちぇんゆ / AIコードコピペ職人
+
+AIが書いたコードを信じて動かし、動かなければ現実にキレるタイプのエンジニア。
+
+---
+
+## 🧠 プロフィール
+- 名前：やん ちぇんゆ
+- 役割：AIコードコピペ職人（時々デバッグ係）
+- スタイル：ほぼAI任せ、たまに人間味を出して後悔する
+- 性格：コードが動かないとAIに責任転嫁する（でも最終的に直すのは自分）
+
+---
+
+## ⚙️ スキルスタック
+- HTML / CSS
+- JavaScript
+- Python
+- React（AIが生成したときだけ理解する）
+- GitHub（ボタン探しに毎回苦戦）
+- デバッグ力：エラーメッセージと喧嘩するレベル
+
+---
+
+## 🔥 開発スタイル
+- AIにコードを書かせる
+- コピペする
+- 動かない
+- AIに文句を言う
+- なんか直る（もしくは諦める）
+
+---
+
+## 🧪 信条
+- 「動けば正義、動かなければAIの責任」
+- 「理解より先に実行」
+- 「ドキュメントより実行結果」
+
+---
+
+## 🧱 よくある状態
+- `SyntaxError` → 読まないで閉じる
+- `ReferenceError` → それ誰？
+- `Works on my machine` → そのマシンどこ
+
+---
+
+## 📦 現在の目標
+- AIコードを一発で動かす確率を上げる（理論上）
+- GitHubで迷子にならない
+- たまにちゃんと設計する（年1くらい）
+
+---
+
+## 💀 最後に
+AIは便利。でも動かなかった時だけ急に他人になる。
+
+それでも今日もコピペする。
