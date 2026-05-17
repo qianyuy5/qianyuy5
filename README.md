@@ -1,4 +1,4 @@
-<img src="profile.jpg">
+<img src="">
 
 # 私のプロフィールへようこそ！
 ## 名前
