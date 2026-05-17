@@ -1,6 +1,6 @@
 <img src="profile.jpg">
 
-# 👋 私のプロフィールへようこそ！
+# 私のプロフィールへようこそ！
 ## 名前
 楊 謙鈺 (やん ちぇんゆ)
 ## 所属
@@ -17,5 +17,4 @@
 ## 拠点
 神奈川県横浜市
 ## 連絡先
-お問い合わせは[こちら](mailto:qianyuyang.vip@gmail.com
-
+制作依頼、技術相談などは[こちら](mailto:qianyuyang.vip@gmail.com)からお問い合わせください
