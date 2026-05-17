@@ -20,4 +20,4 @@
 ## 拠点
 神奈川県横浜市
 ## 連絡先
-制作依頼、技術相談などは[こちら](mailto:qianyuyang.vip@gmail.com)からお問い合わせください
+制作依頼、技術相談などは[こちら](mailto:qianyuyang.vip@gmail.com)からお寄せください
